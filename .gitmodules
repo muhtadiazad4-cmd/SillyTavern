@@ -1,0 +1,3 @@
+[submodule "public/scripts/extensions/third-party/SillyTavern-EchoText"]
+	path = public/scripts/extensions/third-party/SillyTavern-EchoText
+	url = https://github.com/mattjaybe/SillyTavern-EchoText
